@@ -1,0 +1,163 @@
+{
+    "questions": [
+      {
+        "questionId": "1",
+        "question": "What is your marital status?",
+        "answers": [
+          {
+            "value": "Single",
+            "nextQuestionId": "2"
+          },
+          {
+            "value": "Married",
+            "nextQuestionId": "3"
+          }
+        ]
+      },
+      {
+        "questionId": "2",
+        "question": "Are you planning on getting married next year?",
+        "answers": [
+          {
+            "value": "Yes",
+            "nextQuestionId": "7"
+          },
+          {
+            "value": "No",
+            "nextQuestionId": "8"
+          }
+        ]
+      },
+      {
+        "questionId": "3",
+        "question": "How long have you been married?",
+        "answers": [
+          {
+            "value": "Less than a year",
+            "nextQuestionId": "4"
+          },
+          {
+            "value": "More than a year",
+            "nextQuestionId": "5"
+          }
+        ]
+      },
+      {
+        "questionId": "4",
+        "question": "Have you celebrated your one year anniversary?",
+        "answers": [
+          {
+            "value": "Yes",
+            "nextQuestionId": "6"
+          },
+          {
+            "value": "No",
+            "nextQuestionId": "6"
+          }
+        ]
+      },
+      {
+        "questionId": "5",
+        "question": "Do you have children?",
+        "answers": [
+          {
+            "value": "Yes",
+            "nextQuestionId": "11"
+          },
+          {
+            "value": "No",
+            "nextQuestionId": "10"
+          }
+        ]
+      },
+      {
+        "questionId": "6",
+        "question": "Do you plan to have children in the future?",
+        "answers": [
+          {
+            "value": "Yes",
+            "nextQuestionId": "9"
+          },
+          {
+            "value": "No",
+            "nextQuestionId": "10"
+          }
+        ]
+      },
+      {
+        "questionId": "7",
+        "question": "Do you have a soul mate to marry?",
+        "answers": [
+          {
+            "value": "Yes",
+            "nextQuestionId": "12"
+          },
+          {
+            "value": "No",
+            "nextQuestionId": "12"
+          }
+        ]
+      },
+      {
+        "questionId": "8",
+        "question": "Would you like to find your soul mate?",
+        "answers": [
+          {
+            "value": "Yes",
+            "nextQuestionId": "12"
+          },
+          {
+            "value": "No",
+            "nextQuestionId": "12"
+          }
+        ]
+      },
+      {
+        "questionId": "9",
+        "question": "How many children do you plan to have?",
+        "answers": [
+          {
+            "value": "One",
+            "nextQuestionId": "12"
+          },
+          {
+            "value": "More than one",
+            "nextQuestionId": "12"
+          }
+        ]
+      },
+      {
+        "questionId": "10",
+        "question": "Are you considering adopting children in the future?",
+        "answers": [
+          {
+            "value": "Yes",
+            "nextQuestionId": "12"
+          },
+          {
+            "value": "No",
+            "nextQuestionId": "12"
+          }
+        ]
+      },
+      {
+        "questionId": "11",
+        "question": "Do you have a favorite child?",
+        "answers": [
+          {
+            "value": "Yes",
+            "nextQuestionId": "12"
+          },
+          {
+            "value": "No",
+            "nextQuestionId": "12"
+          }
+        ]
+      },
+      {
+        "questionId": "12",
+        "question": "End of the questionnaire!",
+        "answers": []
+      }
+    ]
+  }
